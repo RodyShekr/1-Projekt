@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+    
+
+     
+    }
+    #top  {
+        text-align: center;
+        
+    }
+        #logo-name{
+           
+            color: blueviolet;
+            background-color: rgb(255, 255, 255) ;
+            display: inline-block;
+            font-size: 34px;
+            font-weight: bolder;
+            margin: 16px;
+           
+            
+    
+        }
+        #navigation a{
+            color: gray;
+            padding: 16px;
+
+        }
+
+        #navigation a:hover{
+            color: blueviolet;
+
+        }
+        
+        #image img{
+            width: 80%;
+            margin-top: 16px;
+            margin-bottom: 16px;
+            border-radius : 30px; 
+        }
+
+        #main {
+          max-width: 800px;
+          margin: auto;  
+        }
+        #footer{
+            text-align: center;
+            color: gray;
+            padding: 16px;
+        }
+
+      
